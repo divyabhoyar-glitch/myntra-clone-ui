@@ -20,7 +20,10 @@ This project helped me understand real-world UI design, layout structuring, and 
 - images/
 
 ## 📸 Preview
-![Project Preview](preview.png)
+![Project Preview](MyntraClone-Home.png)
+![Project Preview](MyntraClone-product1.png)
+![Project Preview](MyntraClone-product2.png)
+![Project Preview](MyntraClone-footer.png)
 
 ## 📌 Future Improvements
 - Add JavaScript functionality (Add to Cart, Search)
